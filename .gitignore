@@ -1,0 +1,15 @@
+# Mac OS files
+.DS_Store
+
+# Go binaries / build artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+bin/
+dist/
+
+# IDE files
+.vscode/
+.idea/
